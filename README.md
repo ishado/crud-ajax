@@ -98,4 +98,5 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Lara
 
 ## License
 
+Check out the source tutorial [here](https://dcodemania.com/post/crud-application-image-upload-laravel-8-ajax-sweetalert-datatable).
 This project is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
